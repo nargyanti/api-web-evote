@@ -6,3 +6,4 @@ Untuk berpartisipasi dalam project ini, harap lakukan beberapa langkah di bawah 
 4. Project sudah bisa dimodifikasi.
 5. Jangan lupa lakukan commit dan pull request ke repository WRI.
 6. Tambahkan label "hacktoberfest-accepted" pada saat melakukan pull request.
+7. Tunggu hingga WRI melakukan merge agar poin hacktoberfest dihitung.
